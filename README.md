@@ -7,8 +7,8 @@
 For this assignment, you can choose from one of the two provided homework assignments from CS132. Each file contains several asserts, which serve as test cases. Additionally, these files also include sample codes that validate the correctness of the classes implemented.
 
 ### Assignment Files:
-- [cs132_HW1.py]
-- [assignment-lists-solutions.py]
+- assignment-lists-solution.py
+
 
 
 ## Objectives
