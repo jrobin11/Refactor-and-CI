@@ -10,7 +10,6 @@ For this assignment, you can choose from one of the two provided homework assign
 - [cs132_HW1.py]
 - [assignment-lists-solutions.py]
 
-> *(Replace "link_to_filename" with the actual download link or path for each file.)*
 
 ## Objectives
 Your main task is to refactor the chosen assignment into a structured Python package. Below are the detailed steps you need to follow:
